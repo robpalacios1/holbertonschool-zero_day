@@ -1,1 +1,1 @@
-<strong><i>file 0-hello_ubuntu</i></strong>
+file 0-hello_ubuntu
